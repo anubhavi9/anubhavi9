@@ -7,7 +7,7 @@
       Tableau,
       Power BI,
       Advanced Excel,
-      I am also enhancing my proficiency on SQL.
+      I am also enhancing my current proficiency on SQL.
       
 - 💞️ I’m looking to collaborate on anything and everything that concerns with the above mentioned skills.
 
