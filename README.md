@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anubhavi9
+- 👋 Hi, I’m Anubhavi
 
 - 👀 I’m interested in Data Analytics
 
@@ -6,8 +6,7 @@
       <br>Python programming with numpy, pandas, matplotlib,
       <br>Tableau
       <br>Power BI
-      <br>Advanced Excel
-      <br>I am also enhancing my current proficiency on SQL.
+      <br>Along with this, I am also enhancing my current proficiency on SQL and Advanced Excel
       
 - 💞️ I’m looking to collaborate on anything and everything that concerns with the above mentioned skills.
 
